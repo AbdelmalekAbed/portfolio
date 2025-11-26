@@ -150,9 +150,6 @@ pnpm format:fix   # Auto-fix formatting issues
 - **NLP Text Classification**: Multi-class classification using BERT and TensorFlow
 - **ML Pipeline**: End-to-end pipeline for machine learning workflows
 - **Automated Essay Scoring**: Deep learning model with 0.85 accuracy
-- **Predictive Maintenance**: LSTM-based failure prediction system
-- **Real-time Dashboards**: Interactive analytics with React and D3.js
-- **Fraud Detection**: Anomaly detection using Isolation Forest
 
 ### Skills Categories
 - **AI & Machine Learning**: NLP, Deep Learning, Computer Vision, Neural Networks
@@ -162,8 +159,6 @@ pnpm format:fix   # Auto-fix formatting issues
 
 ## 📊 Certifications
 
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Developer – Associate
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Certified: Azure Data Fundamentals
 - DataCamp Associate Data Scientist
@@ -175,10 +170,6 @@ This is a personal portfolio project. However, if you find any bugs or have sugg
 1. Open an issue describing the problem or enhancement
 2. Feel free to fork and submit pull requests
 3. Ensure code follows existing style (run `pnpm format` before committing)
-
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## 🚀 Deployment
 
@@ -227,8 +218,6 @@ Then push to GitHub and enable GitHub Pages in repository settings.
 Applied Mathematics and Modeling engineering student specializing in Artificial Intelligence, Machine Learning, and Data Science.
 
 **Certifications:**
-- AWS Certified Solutions Architect – Associate
-- AWS Certified Developer – Associate
 - Microsoft Certified: Azure AI Fundamentals
 - Microsoft Certified: Azure Data Fundamentals
 - DataCamp Associate Data Scientist
@@ -248,5 +237,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 - All open-source contributors
 
 ---
-
-Built with ❤️ using React 18 + Next.js 14
