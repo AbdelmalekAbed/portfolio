@@ -2,11 +2,14 @@
 
 Modern portfolio website showcasing my work in Machine Learning, Data Science, and Full-Stack Development. Built with Next.js 14, React 18, and TypeScript.
 
+🌐 **Live Site:** [https://abdelmalek-abed-portfolio.netlify.app/](https://abdelmalek-abed-portfolio.netlify.app/)
+
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](https://choosealicense.com/licenses/mit/)
 [![React](https://img.shields.io/badge/React-18.3.1-blue?logo=react)](https://react.dev)
 [![Next.js](https://img.shields.io/badge/Next.js-14.2.33-black?logo=next.js)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.6-blue?logo=typescript)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38B2AC?logo=tailwind-css)](https://tailwindcss.com/)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/YOUR_SITE_ID/deploy-status)](https://app.netlify.com/sites/abdelmalek-abed-portfolio/deploys)
 
 ## 👨‍💻 About Me
 
