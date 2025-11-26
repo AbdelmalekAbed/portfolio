@@ -111,3 +111,6 @@ test-results/
 
 # Agent Logs
 agent-logs/
+
+# Local Netlify folder
+.netlify
