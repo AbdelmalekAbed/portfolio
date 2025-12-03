@@ -126,4 +126,26 @@ export const projectsData: Project[] = [
     },
     featured: false,
   },
+  {
+    id: "7",
+    title: "Stock Management System",
+    description:
+      "Comprehensive inventory management web application with role-based access control. Features admin dashboard with real-time KPIs, product/supplier/customer management, and public storefront. Implements advanced security with bcrypt password hashing, CSRF protection, rate limiting, and session security.",
+    image: "/projects/stock-management.png",
+    technologies: [
+      "PHP",
+      "MySQL",
+      "JavaScript",
+      "Bootstrap",
+      "jQuery",
+      "OOP",
+      "MVC"
+    ],
+    category: "Full-Stack Development",
+    links: {
+      demo: "https://abdou-store.lovestoblog.com/gestion-stock-template/shop.php",
+      github: "https://github.com/AbdelmalekAbed/stock-management",
+    },
+    featured: true,
+  },
 ];
