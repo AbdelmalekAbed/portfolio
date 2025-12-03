@@ -61,7 +61,7 @@ export const projectsData: Project[] = [
     ],
     category: "Computer Vision",
     links: {
-      github: "#",
+      github: "https://github.com/AbdelmalekAbed/Smart-Queue-Monitoring-System",
     },
     featured: false,
   },
@@ -81,7 +81,7 @@ export const projectsData: Project[] = [
     ],
     category: "Natural Language Processing",
     links: {
-      github: "#",
+      github: "https://github.com/AbdelmalekAbed/amazon-sentiment-analysis",
     },
     featured: false,
   },
@@ -102,7 +102,7 @@ export const projectsData: Project[] = [
     ],
     category: "Full-Stack Development",
     links: {
-      github: "#",
+      github: "https://github.com/AbdelmalekAbed/jira-manager-pro",
     },
     featured: false,
   },
